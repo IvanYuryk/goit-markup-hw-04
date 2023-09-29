@@ -169,6 +169,10 @@ img {
   flex-direction: column;
   align-items: center;
   margin: 0 auto;
+  background-image: url(../images/people-office.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .slogan-text {
