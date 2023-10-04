@@ -498,6 +498,10 @@ img {
   display: flex;
   align-items: baseline;
 }
+.crypt-cover {
+  display: flex;
+  align-items: baseline;
+}
 
 .crypt-first {
   margin-right: 120px;
@@ -549,4 +553,17 @@ img {
   letter-spacing: 0.02em;
   color: #ffffff;
   margin-bottom: 16px;
+}
+
+/* -----footer-icon---- */
+
+.social-cript {
+  display: flex;
+  gap: 16px;
+}
+
+.link-crypt:hover,
+.link-crypt:focus,
+.link-crypt:active {
+  background-color: #31d0aa;
 }
